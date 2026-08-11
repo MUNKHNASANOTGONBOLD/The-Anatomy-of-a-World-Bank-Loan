@@ -1,0 +1,132 @@
+country_id,country_code,country
+1,GE,Georgia
+2,GH,Ghana
+3,GM,"Gambia, The"
+4,GN,Guinea
+5,GQ,Equatorial Guinea
+6,GW,Guinea-Bissau
+7,GY,Guyana
+8,HN,Honduras
+9,HT,Haiti
+10,ID,Indonesia
+11,IN,India
+12,IQ,Iraq
+13,JO,Jordan
+14,KE,Kenya
+15,KG,Kyrgyz Republic
+16,KH,Cambodia
+17,KI,Kiribati
+18,KM,Comoros
+19,KN,St. Kitts and Nevis
+20,KR,"Korea, Republic of"
+21,LA,Lao People's Democratic Republic
+22,LB,Lebanon
+23,LC,St. Lucia
+24,LK,Sri Lanka
+25,LR,Liberia
+26,LS,Lesotho
+27,MA,Morocco
+28,MD,Moldova
+29,ME,Montenegro
+30,MG,Madagascar
+31,MH,Marshall Islands
+32,3E,Eastern and Southern Africa
+33,3T,Central Africa
+34,3W,Western and Central Africa
+35,4E,East Asia and Pacific
+36,4M,"Viet Nam, Cambodia, Laos CMU"
+37,4P,Pacific Islands
+38,4S,Thailand & Myanmar CMU
+39,5M,"Mid East,NorthAfrica, Afghan, Pakistan"
+40,6C,Central America
+41,6O,OECS Countries
+42,6R,Caribbean
+43,7C,Central Asia
+44,8S,South Asia
+45,AF,Afghanistan
+46,AL,Albania
+47,AM,Armenia
+48,AO,Angola
+49,AZ,Azerbaijan
+50,BA,Bosnia and Herzegovina
+51,BD,Bangladesh
+52,BF,Burkina Faso
+53,BI,Burundi
+54,BJ,Benin
+55,BO,Bolivia
+56,BT,Bhutan
+57,BW,Botswana
+58,BZ,Belize
+59,CF,Central African Republic
+60,CG,"Congo, Republic of"
+61,CI,Cote d'Ivoire
+62,CL,Chile
+63,CM,Cameroon
+64,CN,China
+65,CO,Colombia
+66,CR,Costa Rica
+67,CV,Cabo Verde
+68,DJ,Djibouti
+69,DM,Dominica
+70,DO,Dominican Republic
+71,EC,Ecuador
+72,EG,"Egypt, Arab Republic of"
+73,ER,Eritrea
+74,ET,Ethiopia
+75,FJ,Fiji
+76,FM,"Micronesia, Federated States of"
+77,GD,Grenada
+78,MK,North Macedonia
+79,ML,Mali
+80,MM,Myanmar
+81,MN,Mongolia
+82,MR,Mauritania
+83,MU,Mauritius
+84,MV,Maldives
+85,MW,Malawi
+86,MZ,Mozambique
+87,NE,Niger
+88,NG,Nigeria
+89,NI,Nicaragua
+90,NP,Nepal
+91,P3,Pacific 1
+92,PG,Papua New Guinea
+93,PH,Philippines
+94,PK,Pakistan
+95,PY,Paraguay
+96,RW,Rwanda
+97,RY,"Yemen, Republic of"
+98,SB,Solomon Islands
+99,SD,Sudan
+100,SL,Sierra Leone
+101,SN,Senegal
+102,SO,"Somalia, Federal Republic of"
+103,SR,Suriname
+104,SS,South Sudan
+105,ST,Sao Tome and Principe
+106,SV,El Salvador
+107,SY,Syrian Arab Republic
+108,SZ,Eswatini
+109,TD,Chad
+110,TG,Togo
+111,TH,Thailand
+112,TJ,Tajikistan
+113,TN,Tunisia
+114,TO,Tonga
+115,TP,Timor-Leste
+116,TR,Turkiye
+117,TV,Tuvalu
+118,TW,"Taiwan, China"
+119,TZ,Tanzania
+120,UA,Ukraine
+121,UG,Uganda
+122,UZ,Uzbekistan
+123,VC,St. Vincent and the Grenadines
+124,VN,Viet Nam
+125,VU,Vanuatu
+126,WS,Samoa
+127,XK,Kosovo
+128,YF,Serbia
+129,ZM,Zambia
+130,ZR,"Congo, Democratic Republic of"
+131,ZW,Zimbabwe

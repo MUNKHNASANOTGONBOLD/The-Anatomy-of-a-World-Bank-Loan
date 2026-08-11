@@ -1,0 +1,11 @@
+status_id,credit_status
+1,Repaying
+2,Fully Disbursed
+3,Fully Repaid
+4,Terminated
+5,Signed
+6,Disbursing&Repaying
+7,Disbursing
+8,Effective
+9,Approved
+10,Fully Cancelled
