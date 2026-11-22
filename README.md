@@ -1,6 +1,6 @@
 # World Bank IDA Portfolio: Credits, Grants & Guarantees
 
-Python cleaning pipeline + Power BI-ready star schema + dashboard prototype, built on real, public World Bank data.
+I cleaned 11,404 IDA financing records across 131 countries to compare principal, disbursements, and repayments. The [Excel workbook](IDA_PowerBI_Data_Model.xlsx) packages the star schema and DAX measure definitions for Power BI. The [HTML prototype](IDA_Portfolio_Dashboard_v2.html) lets you explore the portfolio.
 
 ## Dataset
 
